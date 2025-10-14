@@ -7,7 +7,7 @@ A planilha desenvolvida permite que o usuário realize simulações detalhadas, 
 # ✨ Funcionalidades da Planilha
 A ferramenta de simulação foi estruturada para ser intuitiva e poderosa, automatizando cálculos complexos e fornecendo uma visão clara do potencial de crescimento do patrimônio e dos dividendos. 
 - Possui uma tabela para controle de cotas compradas e acompanhar o crescimento de patrimônio
-- Três tipos de perfis de investimentos que podem ser modificados;
+- Três tipos de perfis de investimentos com modalidades diferentes de investimentos que podem ser modificados;
   - CONSERVADOR
   - AGRESSIVO
   - MODERADO
